@@ -12,7 +12,7 @@ Made by Crawlwren, the maker of the actor it calls.
 
 **Build a re-tender pipeline.** Every contract carries its end date. Contracts ending in the next 12 to 24 months are work that may come back to market, often before a tender notice appears.
 
-**Benchmark your price.** Award values show what buyers actually paid for comparable work, so you can test your numbers against real outcomes instead of guesses.
+**Benchmark your price.** Award values show what buyers expected to pay for comparable work (published estimates, not payments), so you can test your numbers against real outcomes instead of guesses.
 
 **Back up win themes and case studies.** Run your own company number to get a clean, linked list of your public wins by buyer and value, ready for a capability statement or bid evidence.
 
