@@ -1,0 +1,1081 @@
+{
+  "recordType": "profile",
+  "companyNumber": "02099533",
+  "companyName": "KIER CONSTRUCTION LIMITED",
+  "match": {
+    "method": "company-number",
+    "query": "02099533",
+    "confidence": 1
+  },
+  "flags": {
+    "active": true,
+    "accountsOverdue": false,
+    "confirmationStatementOverdue": false,
+    "hasInsolvencyHistory": false,
+    "hasOutstandingCharges": false,
+    "registeredOfficeUndeliverable": false
+  },
+  "companiesHouse": {
+    "status": "active",
+    "statusDetail": null,
+    "type": "ltd",
+    "subtype": null,
+    "jurisdiction": "england-wales",
+    "incorporatedOn": "1987-02-12",
+    "dissolvedOn": null,
+    "sicCodes": [
+      "41201",
+      "42130",
+      "42990"
+    ],
+    "registeredOffice": {
+      "premises": null,
+      "line1": "2nd Floor",
+      "line2": "Optimum House, Clippers Quay",
+      "locality": "Salford",
+      "region": null,
+      "postalCode": "M50 3XP",
+      "country": "England",
+      "poBox": null
+    },
+    "registeredOfficeUndeliverable": false,
+    "registeredOfficeInDispute": false,
+    "previousNames": [
+      {
+        "name": "KIER REGIONAL LIMITED",
+        "from": "1992-07-06",
+        "to": "2012-01-03"
+      },
+      {
+        "name": "BEAZER CONSTRUCTION LIMITED",
+        "from": "1990-07-01",
+        "to": "1992-07-06"
+      },
+      {
+        "name": "BEAZER REGIONAL CONSTRUCTION LIMITED",
+        "from": "1989-03-01",
+        "to": "1990-07-01"
+      },
+      {
+        "name": "KIER REGIONAL CONTRACTING LIMITED",
+        "from": "1987-06-23",
+        "to": "1989-03-01"
+      },
+      {
+        "name": "KIER (FIVE) LIMITED",
+        "from": "1987-02-12",
+        "to": "1987-06-23"
+      }
+    ],
+    "accounts": {
+      "lastMadeUpTo": "2025-06-30",
+      "lastType": "full",
+      "nextMadeUpTo": "2026-06-30",
+      "nextDue": "2027-03-31",
+      "daysUntilDue": 163,
+      "overdue": false
+    },
+    "confirmationStatement": {
+      "lastMadeUpTo": "2025-12-23",
+      "nextMadeUpTo": "2026-12-23",
+      "nextDue": "2027-01-06",
+      "daysUntilDue": 79,
+      "overdue": false
+    },
+    "hasCharges": false,
+    "charges": {
+      "total": 0,
+      "satisfied": null,
+      "partSatisfied": null,
+      "outstanding": 0,
+      "latestCreatedOn": null,
+      "outstandingClassifications": []
+    },
+    "hasInsolvencyHistory": false,
+    "hasBeenLiquidated": false,
+    "insolvencyCases": null,
+    "corporateOwners": [
+      {
+        "name": "Kier Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "notifiedOn": "2016-04-06",
+        "ceasedOn": null,
+        "naturesOfControl": [
+          "ownership-of-shares-75-to-100-percent",
+          "voting-rights-75-to-100-percent"
+        ],
+        "identification": {
+          "type": null,
+          "registrationNumber": "01611136",
+          "placeRegistered": "United Kingdom",
+          "countryRegistered": "United Kingdom",
+          "legalForm": "Private Company Limited By Shares",
+          "legalAuthority": "Companies Act 2006"
+        }
+      }
+    ],
+    "activeOwnersCount": 1,
+    "individualOwnersWithheld": 0,
+    "outstandingCharges": 0,
+    "url": "https://find-and-update.company-information.service.gov.uk/company/02099533"
+  },
+  "lei": null,
+  "leiChecked": true,
+  "ukPublicContracts": {
+    "checked": true,
+    "totalContracts": 32,
+    "totalLotAwards": 32,
+    "totalValueGbp": 490719353.48,
+    "frameworkContracts": 7,
+    "frameworkCeilingGbp": 18876000000,
+    "frameworkReasons": {
+      "notice-flag": 5,
+      "value-over-cap": 2
+    },
+    "valueMethod": "totalContracts, totalValueGbp and contracts cover direct contracts and call-offs only: the sum of the largest award value published for this supplier per notice (lots of one notice are not added up). Framework and DPS awards are never in those totals; they are listed in frameworks and summed in frameworkCeilingGbp, because their value is a ceiling shared by every supplier on the framework, not spend. Each framework carries frameworkReason: notice-flag (the notice says so), central-purchasing-body (CCS, NHS SBS, YPO, ESPO, NEPO, Fusion21, ...), title (framework, DPS, purchasing system, panel), multi-supplier-award, shared-lot, or value-over-cap (one award above GBP 100m, treated as a likely framework; a few genuinely large single contracts land here).",
+    "contractsWithValue": 31,
+    "distinctBuyers": 11,
+    "topBuyers": [
+      {
+        "buyerName": "Department for Education",
+        "contracts": 19
+      },
+      {
+        "buyerName": "Defence Science and Technology Laboratory",
+        "contracts": 3
+      },
+      {
+        "buyerName": "ESSEX COUNTY COUNCIL",
+        "contracts": 2
+      },
+      {
+        "buyerName": "BRISTOL TEMPLE QUARTER LLP",
+        "contracts": 1
+      },
+      {
+        "buyerName": "East Cambridgeshire District Council",
+        "contracts": 1
+      }
+    ],
+    "latestAwardDate": "2026-08-02",
+    "crossPortalDuplicatesMerged": 0,
+    "contracts": [
+      {
+        "source": "contracts_finder",
+        "noticeId": "5d091862-0913-4cd0-8bb0-bab801da5feb-916704",
+        "ocid": "ocds-b5fd17-cdb0bdb4-d413-4aeb-9ae5-8525716ad41c",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/5d091862-0913-4cd0-8bb0-bab801da5feb",
+        "title": "HMCTS Salisbury Law Court Project : Chiller Replacement BPRN: 15706",
+        "buyerName": "Ministry of Justice",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction Ltd",
+        "awardDate": "2026-08-02",
+        "publishedDate": "2026-10-06",
+        "valueAmount": 1841479,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-12-02",
+        "contractEnd": "2027-06-02",
+        "cpvCodes": [
+          "45216112"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-cdb0bdb4-d413-4aeb-9ae5-8525716ad41c-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "3945b39e-0e95-416d-91b9-8bac7df0f8e4-911955",
+        "ocid": "ocds-b5fd17-56718c9c-979d-4fc2-86db-59b95dbab65f",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/3945b39e-0e95-416d-91b9-8bac7df0f8e4",
+        "title": "Castleford Five Towns Skills Hub PCSA",
+        "buyerName": "WAKEFIELD COUNCIL",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction Limited",
+        "awardDate": "2026-07-24",
+        "publishedDate": "2026-08-25",
+        "valueAmount": 480083.59,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-07-27",
+        "contractEnd": "2027-08-05",
+        "cpvCodes": [
+          "71530000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-56718c9c-979d-4fc2-86db-59b95dbab65f-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "a8780caa-bdcb-4454-afcb-7ca3920fe770-908279",
+        "ocid": "ocds-b5fd17-42945ec1-1f7a-4416-b735-d27355afe87e",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/a8780caa-bdcb-4454-afcb-7ca3920fe770",
+        "title": "Wellfield Academy - Main Works (con_31815)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-05-29",
+        "publishedDate": "2026-07-24",
+        "valueAmount": 44887809.95,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-05-29",
+        "contractEnd": "2028-11-10",
+        "cpvCodes": [
+          "45214200"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-42945ec1-1f7a-4416-b735-d27355afe87e-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "2c741e01-d99e-4fe1-a8ef-e053bfbc2c23-908276",
+        "ocid": "ocds-b5fd17-bfeeb17f-5b2a-4fc9-875d-7e37b8c2c425",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/2c741e01-d99e-4fe1-a8ef-e053bfbc2c23",
+        "title": "Anglo European School - Main Works (con_31751)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-05-27",
+        "publishedDate": "2026-07-24",
+        "valueAmount": 53313769.34,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-06-27",
+        "contractEnd": "2030-01-11",
+        "cpvCodes": [
+          "45214200"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-bfeeb17f-5b2a-4fc9-875d-7e37b8c2c425-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "62ac2848-0443-4adc-8d8d-fb5fade2a0a9-908695",
+        "ocid": "ocds-b5fd17-8253ac0e-3128-4dfc-a4c9-9e1b5ad18a44",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/62ac2848-0443-4adc-8d8d-fb5fade2a0a9",
+        "title": "Wolsey Park SEND",
+        "buyerName": "ESSEX COUNTY COUNCIL",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction Limited",
+        "awardDate": "2026-05-20",
+        "publishedDate": "2026-07-28",
+        "valueAmount": 21467763.81,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-05-20",
+        "contractEnd": "2028-07-13",
+        "cpvCodes": [
+          "45214200"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-8253ac0e-3128-4dfc-a4c9-9e1b5ad18a44-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "1aa82c85-3dbd-4402-b79a-2b4b9c0ab184-908697",
+        "ocid": "ocds-b5fd17-87a5646c-19b1-4f0e-a823-eb6ff10876b5",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/1aa82c85-3dbd-4402-b79a-2b4b9c0ab184",
+        "title": "Cressing Primary School",
+        "buyerName": "ESSEX COUNTY COUNCIL",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Beardwell Construction Limited",
+        "awardDate": "2026-05-06",
+        "publishedDate": "2026-07-28",
+        "valueAmount": 3795860.72,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-05-06",
+        "contractEnd": "2027-08-05",
+        "cpvCodes": [
+          "45214200"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-87a5646c-19b1-4f0e-a823-eb6ff10876b5-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "c614f82e-4ebc-4060-b07a-b358f068a8f9-898875",
+        "ocid": "ocds-b5fd17-b3b3d860-1dc4-41db-88e7-19172d555762",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/c614f82e-4ebc-4060-b07a-b358f068a8f9",
+        "title": "Maintain and Sustain Services",
+        "buyerName": "Defence Science and Technology Laboratory",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction Ltd",
+        "awardDate": "2026-05-05",
+        "publishedDate": "2026-05-21",
+        "valueAmount": 8299432.93,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-05-06",
+        "contractEnd": "2028-03-31",
+        "cpvCodes": [
+          "50000000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-b3b3d860-1dc4-41db-88e7-19172d555762-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "1abc34c4-3e31-4605-ab0f-b19bc037acf9-898804",
+        "ocid": "ocds-b5fd17-af0bf63f-9eea-43df-86c1-ad78873bdc3c",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/1abc34c4-3e31-4605-ab0f-b19bc037acf9",
+        "title": "Elmgrove Primary School & Nursery - PCSA (con_31679)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-04-30",
+        "publishedDate": "2026-05-22",
+        "valueAmount": 803042.87,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-04-30",
+        "contractEnd": "2026-10-16",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-af0bf63f-9eea-43df-86c1-ad78873bdc3c-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "d488e4cf-e1b6-405a-b170-7096bad75077-898488",
+        "ocid": "ocds-b5fd17-7c7c363a-adf4-4124-a674-825853c7590b",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/d488e4cf-e1b6-405a-b170-7096bad75077",
+        "title": "Rawlins Academy - PCSA (con_31605)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-04-20",
+        "publishedDate": "2026-05-21",
+        "valueAmount": 3528946.1,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-04-20",
+        "contractEnd": "2027-02-15",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-7c7c363a-adf4-4124-a674-825853c7590b-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "ef7fcda9-351f-4ff3-93b1-816070f720e9-898483",
+        "ocid": "ocds-b5fd17-0a2475c2-0206-44df-8482-b41d33258078",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/ef7fcda9-351f-4ff3-93b1-816070f720e9",
+        "title": "PRE-CONSTRUCTION SERVICES AGREEMENT  for use with JCT Design & Build in relation to SRP1485 St  Gregory's Catholic Science College  (con_31555)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-04-17",
+        "publishedDate": "2026-05-20",
+        "valueAmount": 4802820,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-04-17",
+        "contractEnd": "2026-10-26",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-0a2475c2-0206-44df-8482-b41d33258078-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "06ab223d-0055-4f23-8ec0-5c1cdbc22940-893261",
+        "ocid": "ocds-b5fd17-b61f27a5-c0e6-4783-8458-499de5d89993",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/06ab223d-0055-4f23-8ec0-5c1cdbc22940",
+        "title": "Kings Leadership Academy- PCSA (con_31282)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-03-19",
+        "publishedDate": "2026-04-17",
+        "valueAmount": 3003657,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-03-19",
+        "contractEnd": "2027-02-28",
+        "cpvCodes": [
+          "45214200"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-b61f27a5-c0e6-4783-8458-499de5d89993-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "326f4908-538d-49be-bdf2-e1b63dda9ebb-889301",
+        "ocid": "ocds-b5fd17-0a0a6020-fa90-418a-9de7-d42dd27c1d98",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/326f4908-538d-49be-bdf2-e1b63dda9ebb",
+        "title": "Bishop Ullathorne Catholic School - PCSA (con_30989)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-03-09",
+        "publishedDate": "2026-03-19",
+        "valueAmount": 2745042.52,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-03-09",
+        "contractEnd": "2026-12-14",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-0a0a6020-fa90-418a-9de7-d42dd27c1d98-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "def2c9c5-c43c-49e1-b2ec-4e0d7f72b922-887857",
+        "ocid": "ocds-b5fd17-72ae5abc-c017-49e1-bffd-31578cb79f30",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/def2c9c5-c43c-49e1-b2ec-4e0d7f72b922",
+        "title": "Polam Hall School- Main Works (con_30903)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-02-27",
+        "publishedDate": "2026-03-10",
+        "valueAmount": 64081879,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-02-27",
+        "contractEnd": "2030-03-19",
+        "cpvCodes": [
+          "45214200"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-72ae5abc-c017-49e1-bffd-31578cb79f30-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "find_a_tender",
+        "noticeId": "017991-2026",
+        "ocid": "ocds-h6vhtk-065e79",
+        "url": "https://www.find-tender.service.gov.uk/Notice/017991-2026",
+        "title": "Delivery of Pre Construction Services in relation to Holyrood Primary School Chard",
+        "buyerName": "Somerset Council",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "KIER CONSTRUCTION LIMITED",
+        "awardDate": "2026-02-12",
+        "publishedDate": "2026-02-27",
+        "valueAmount": 261243,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-02-13",
+        "contractEnd": "2026-10-31",
+        "cpvCodes": [],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "find_a_tender",
+        "noticeId": "013168-2026",
+        "ocid": "ocds-h6vhtk-05ae76",
+        "url": "https://www.find-tender.service.gov.uk/Notice/013168-2026",
+        "title": "Southern Gateway - Main Contractor",
+        "buyerName": "BRISTOL TEMPLE QUARTER LLP",
+        "buyerCompaniesHouseNumber": "OC451571",
+        "supplierNameInNotice": "KIER CONSTRUCTION LIMITED",
+        "awardDate": "2026-02-11",
+        "publishedDate": "2026-02-12",
+        "valueAmount": null,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-03-02",
+        "contractEnd": "2028-03-31",
+        "cpvCodes": [],
+        "awardStatus": "pending",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "fb3e268a-10e9-44f6-b15b-f28143083407-893272",
+        "ocid": "ocds-b5fd17-ea54fc7c-e74e-43e3-af04-60da3a327443",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/fb3e268a-10e9-44f6-b15b-f28143083407",
+        "title": "John Keats Primary School- PCSA (con_31395)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Wates Construction",
+        "awardDate": "2026-02-10",
+        "publishedDate": "2026-04-17",
+        "valueAmount": 171257.77,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-02-10",
+        "contractEnd": "2026-07-17",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-ea54fc7c-e74e-43e3-af04-60da3a327443-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "ad9ff9a5-90e0-4545-8b37-df8e7d4663de-887593",
+        "ocid": "ocds-b5fd17-0d1de036-c7d1-481a-8163-0083d2634edb",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/ad9ff9a5-90e0-4545-8b37-df8e7d4663de",
+        "title": "Brit School North - PCSA (con_30758)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-02-02",
+        "publishedDate": "2026-03-06",
+        "valueAmount": 3479214,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-02-02",
+        "contractEnd": "2026-12-02",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-0d1de036-c7d1-481a-8163-0083d2634edb-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "f3daf380-ff65-49cc-8f13-e172237e557b-887588",
+        "ocid": "ocds-b5fd17-f562cb93-4f38-44a6-9eec-bea31d11a692",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/f3daf380-ff65-49cc-8f13-e172237e557b",
+        "title": "Imperial College London Mathematics School - PCSA (con_30756)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-02-02",
+        "publishedDate": "2026-03-06",
+        "valueAmount": 1294517.86,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-02-02",
+        "contractEnd": "2026-03-26",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-f562cb93-4f38-44a6-9eec-bea31d11a692-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "a161deb3-338c-451c-89da-6b5b803f3776-887595",
+        "ocid": "ocds-b5fd17-3dfd8c77-1ed0-4520-bd61-541721c13bdc",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/a161deb3-338c-451c-89da-6b5b803f3776",
+        "title": "The Magna Carta School - PCSA (con_30816)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-01-28",
+        "publishedDate": "2026-03-06",
+        "valueAmount": 3805785,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-01-28",
+        "contractEnd": "2026-07-22",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-3dfd8c77-1ed0-4520-bd61-541721c13bdc-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "b9fcda20-8a19-4b10-975e-47a10883ff5d-887582",
+        "ocid": "ocds-b5fd17-4b5ab4a2-8094-4960-bbc6-27a8c2706f7a",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/b9fcda20-8a19-4b10-975e-47a10883ff5d",
+        "title": "Pheasey Park Primary School - PCSA (con_30678)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-01-27",
+        "publishedDate": "2026-03-06",
+        "valueAmount": 1678854,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-01-27",
+        "contractEnd": "2026-09-25",
+        "cpvCodes": [
+          "92310000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-4b5ab4a2-8094-4960-bbc6-27a8c2706f7a-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "1a35f133-2b2e-469e-b7cf-d4b8b85de65d-882661",
+        "ocid": "ocds-b5fd17-55b302d9-f762-4621-899a-b128f6102c7a",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/1a35f133-2b2e-469e-b7cf-d4b8b85de65d",
+        "title": "Maintain and Sustain Pre Construction Contract",
+        "buyerName": "Defence Science and Technology Laboratory",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction Ltd",
+        "awardDate": "2026-01-23",
+        "publishedDate": "2026-02-06",
+        "valueAmount": 49574.93,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-01-26",
+        "contractEnd": "2026-03-31",
+        "cpvCodes": [
+          "71220000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-55b302d9-f762-4621-899a-b128f6102c7a-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "b451d50f-c1ae-4ded-99da-3cae8b58e05c-879625",
+        "ocid": "ocds-b5fd17-88ecf3bf-bb11-4b9d-b4db-2ba4697a205f",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/b451d50f-c1ae-4ded-99da-3cae8b58e05c",
+        "title": "Ellesmere Port Catholic High School - PCSA (con_29734)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2026-01-07",
+        "publishedDate": "2026-01-16",
+        "valueAmount": 3090709,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-01-07",
+        "contractEnd": "2026-10-30",
+        "cpvCodes": [
+          "45214200"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-88ecf3bf-bb11-4b9d-b4db-2ba4697a205f-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "e58c6485-7657-4bca-bcdf-d89769cbbfd2-877180",
+        "ocid": "ocds-b5fd17-8f68b7be-89f9-4b18-96db-db6e041c9163",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/e58c6485-7657-4bca-bcdf-d89769cbbfd2",
+        "title": "GPA Brunswick Street, Darlington DL1 1SP - New Build & Fit-Out",
+        "buyerName": "GOVERNMENT PROPERTY AGENCY",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction Limited trading as Kier Construction - North a",
+        "awardDate": "2025-12-22",
+        "publishedDate": "2025-12-23",
+        "valueAmount": 85559449.37,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-01-12",
+        "contractEnd": "2027-12-07",
+        "cpvCodes": [
+          "45000000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-8f68b7be-89f9-4b18-96db-db6e041c9163-2"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "88481001-c296-44ad-be4f-e5de25955b80-878672",
+        "ocid": "ocds-b5fd17-f62d1b53-b9b3-450e-806e-c3d8574bd6f7",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/88481001-c296-44ad-be4f-e5de25955b80",
+        "title": "Springfield School- Main Works (con_29638)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2025-12-17",
+        "publishedDate": "2026-01-09",
+        "valueAmount": 59201607.11,
+        "valueCurrency": "GBP",
+        "contractStart": "2025-12-17",
+        "contractEnd": "2028-09-28",
+        "cpvCodes": [
+          "45214200"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-f62d1b53-b9b3-450e-806e-c3d8574bd6f7-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "60f3aefd-4cd9-45ca-baa8-ec2391bcc517-878664",
+        "ocid": "ocds-b5fd17-50db413b-4cb5-430c-8305-35d81e2de67c",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/60f3aefd-4cd9-45ca-baa8-ec2391bcc517",
+        "title": "Matford Brook Academy - PCSA (con_29544)",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction",
+        "awardDate": "2025-12-08",
+        "publishedDate": "2026-01-09",
+        "valueAmount": 727427,
+        "valueCurrency": "GBP",
+        "contractStart": "2025-12-08",
+        "contractEnd": "2026-12-01",
+        "cpvCodes": [
+          "44000000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-50db413b-4cb5-430c-8305-35d81e2de67c-1"
+        ],
+        "frameworkReason": null,
+        "isFramework": false
+      }
+    ],
+    "truncated": true,
+    "frameworks": [
+      {
+        "source": "find_a_tender",
+        "noticeId": "033843-2026",
+        "ocid": "ocds-h6vhtk-04e992",
+        "url": "https://www.find-tender.service.gov.uk/Notice/033843-2026",
+        "title": "Construction Framework 2025",
+        "buyerName": "Department for Education",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "KIER CONSTRUCTION LIMITED",
+        "awardDate": "2026-01-14",
+        "publishedDate": "2026-04-14",
+        "valueAmount": 15400000000,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-01-14",
+        "contractEnd": "2032-01-04",
+        "cpvCodes": [],
+        "awardStatus": "active",
+        "coSuppliers": 9,
+        "lotsWon": 2,
+        "awardIds": [
+          "1",
+          "2"
+        ],
+        "frameworkReason": "notice-flag",
+        "isFramework": true
+      },
+      {
+        "source": "find_a_tender",
+        "noticeId": "094489-2026",
+        "ocid": "ocds-h6vhtk-054ec5",
+        "url": "https://www.find-tender.service.gov.uk/Notice/094489-2026",
+        "title": "Public Buildings Construction and Infrastructure",
+        "buyerName": "LHC Procurement Group",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "KIER CONSTRUCTION LIMITED",
+        "awardDate": "2026-10-02",
+        "publishedDate": "2026-10-06",
+        "valueAmount": 1950000000,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-10-16",
+        "contractEnd": "2030-10-15",
+        "cpvCodes": [],
+        "awardStatus": "pending",
+        "coSuppliers": 41,
+        "lotsWon": 4,
+        "awardIds": [
+          "10",
+          "7",
+          "8",
+          "9"
+        ],
+        "frameworkReason": "notice-flag",
+        "isFramework": true
+      },
+      {
+        "source": "find_a_tender",
+        "noticeId": "059127-2026",
+        "ocid": "ocds-h6vhtk-051e67",
+        "url": "https://www.find-tender.service.gov.uk/Notice/059127-2026",
+        "title": "YORbuild Major Works 2",
+        "buyerName": "Leeds City Council",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "KIER CONSTRUCTION LIMITED",
+        "awardDate": "2026-06-22",
+        "publishedDate": "2026-06-23",
+        "valueAmount": 900000000,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-07-06",
+        "contractEnd": "2030-07-05",
+        "cpvCodes": [],
+        "awardStatus": "pending",
+        "coSuppliers": 7,
+        "lotsWon": 2,
+        "awardIds": [
+          "1",
+          "2"
+        ],
+        "frameworkReason": "notice-flag",
+        "isFramework": true
+      },
+      {
+        "source": "contracts_finder",
+        "noticeId": "19bf0548-816f-46cf-8ac5-1d3d1bcd6aed-871175",
+        "ocid": "ocds-b5fd17-f74c76f9-58ab-403d-b8a4-2805dc3743ee",
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/19bf0548-816f-46cf-8ac5-1d3d1bcd6aed",
+        "title": "Accelerated Houseblock Delivery Programme - FAC-1",
+        "buyerName": "Ministry of Justice",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "Kier Construction Limited",
+        "awardDate": "2022-03-29",
+        "publishedDate": "2022-08-11",
+        "valueAmount": 506000000,
+        "valueCurrency": "GBP",
+        "contractStart": "2022-03-29",
+        "contractEnd": "2025-12-31",
+        "cpvCodes": [
+          "71000000"
+        ],
+        "awardStatus": "active",
+        "coSuppliers": 1,
+        "lotsWon": 1,
+        "awardIds": [
+          "ocds-b5fd17-f74c76f9-58ab-403d-b8a4-2805dc3743ee-1"
+        ],
+        "frameworkReason": "value-over-cap",
+        "isFramework": true
+      },
+      {
+        "source": "find_a_tender",
+        "noticeId": "068530-2026",
+        "ocid": "ocds-h6vhtk-06ce46",
+        "url": "https://www.find-tender.service.gov.uk/Notice/068530-2026",
+        "title": "Interim Highway Services - Birmingham",
+        "buyerName": "Birmingham City Council",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "KIER CONSTRUCTION LIMITED",
+        "awardDate": "2026-07-21",
+        "publishedDate": "2026-07-21",
+        "valueAmount": 120000000,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-08-01",
+        "contractEnd": "2028-07-31",
+        "cpvCodes": [],
+        "awardStatus": "active",
+        "coSuppliers": 0,
+        "lotsWon": 1,
+        "awardIds": [
+          "1"
+        ],
+        "frameworkReason": "value-over-cap",
+        "isFramework": true
+      },
+      {
+        "source": "find_a_tender",
+        "noticeId": "087925-2026",
+        "ocid": "ocds-h6vhtk-058b90",
+        "url": "https://www.find-tender.service.gov.uk/Notice/087925-2026",
+        "title": "Constructing West Midlands 3 - Construction Framework",
+        "buyerName": "ACIVICO (DESIGN, CONSTRUCTION AND FACILITIES MANAGEMENT) LIMITED",
+        "buyerCompaniesHouseNumber": "07918913",
+        "supplierNameInNotice": "KIER CONSTRUCTION LIMITED",
+        "awardDate": "2026-09-11",
+        "publishedDate": "2026-09-16",
+        "valueAmount": null,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-09-28",
+        "contractEnd": "2030-09-27",
+        "cpvCodes": [],
+        "awardStatus": "pending",
+        "coSuppliers": 5,
+        "lotsWon": 1,
+        "awardIds": [
+          "3"
+        ],
+        "frameworkReason": "notice-flag",
+        "isFramework": true
+      },
+      {
+        "source": "find_a_tender",
+        "noticeId": "079609-2026",
+        "ocid": "ocds-h6vhtk-05203a",
+        "url": "https://www.find-tender.service.gov.uk/Notice/079609-2026",
+        "title": "North West Contractor Framework",
+        "buyerName": "Wirral Council",
+        "buyerCompaniesHouseNumber": null,
+        "supplierNameInNotice": "KIER CONSTRUCTION LIMITED",
+        "awardDate": "2026-03-31",
+        "publishedDate": "2026-08-20",
+        "valueAmount": null,
+        "valueCurrency": "GBP",
+        "contractStart": "2026-04-01",
+        "contractEnd": "2030-03-31",
+        "cpvCodes": [],
+        "awardStatus": "active",
+        "coSuppliers": 11,
+        "lotsWon": 3,
+        "awardIds": [
+          "4",
+          "5",
+          "6"
+        ],
+        "frameworkReason": "notice-flag",
+        "isFramework": true
+      }
+    ],
+    "frameworksTruncated": false,
+    "matchMethod": "Exact Companies House number on the award supplier (GB-COH identifier in the notice)",
+    "coverage": {
+      "find_a_tender": {
+        "from": "2025-10-17T00:00:00+00:00",
+        "to": "2026-10-19T03:37:04.526007+00:00",
+        "pagesScanned": 1200,
+        "entries": 82346
+      },
+      "contracts_finder": {
+        "from": "2025-10-17T00:00:00+00:00",
+        "to": "2026-10-19T03:37:04.526007+00:00",
+        "pagesScanned": 389,
+        "entries": 16150
+      }
+    },
+    "limits": "Only awards whose notice gives the supplier a Companies House number are matched (about 57% of Find a Tender and 42% of Contracts Finder supplier records, Oct 2026 sample). Awards outside the coverage window, or listing the supplier only by PPON or name, are not included."
+  },
+  "usFederalAwards": {
+    "checked": true,
+    "searchedName": "KIER CONSTRUCTION LIMITED",
+    "matchMethod": "USAspending recipient search, exact name match after normalising punctuation and legal suffixes",
+    "confidence": null,
+    "confidenceNote": null,
+    "matches": [],
+    "amountLast12MonthsUsd": null
+  },
+  "sources": [
+    {
+      "fieldGroup": "companiesHouse",
+      "source": "Companies House public data API",
+      "url": "https://developer.company-information.service.gov.uk/",
+      "licence": "Contains public sector information licensed under the Open Government Licence v3.0. Source: Companies House. Not affiliated with or endorsed by Companies House.",
+      "licenceUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    },
+    {
+      "fieldGroup": "lei",
+      "source": "GLEIF LEI API (Level 1 and Level 2 relationships)",
+      "url": "https://api.gleif.org/api/v1",
+      "licence": "CC0 1.0. Source: Global Legal Entity Identifier Foundation (GLEIF), https://www.gleif.org/en/meta/lei-data-terms-of-use",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "fieldGroup": "ukPublicContracts",
+      "source": "Find a Tender (OCDS) and Contracts Finder (OCDS)",
+      "url": "https://www.find-tender.service.gov.uk/apidocumentation",
+      "licence": "Contains public sector information licensed under the Open Government Licence v3.0. Source: Find a Tender and Contracts Finder (Cabinet Office).",
+      "licenceUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    },
+    {
+      "fieldGroup": "usFederalAwards",
+      "source": "USAspending.gov API v2 (recipient search)",
+      "url": "https://api.usaspending.gov",
+      "licence": "U.S. Government work, public domain (17 U.S.C. § 105). Source: USAspending.gov (U.S. Department of the Treasury).",
+      "licenceUrl": "https://www.usaspending.gov/about"
+    }
+  ],
+  "errors": [],
+  "scrapedAt": "2026-10-19T21:23:47+00:00"
+}
